@@ -1,0 +1,22 @@
+.h1 {
+    font-size: 50px;
+    text-align: center;
+    color: blanchedalmond;
+    text-align: center;
+    font-size: 60px;
+}
+.div {
+    height: 75px;
+    width: 1280px;
+    color: whitesmoke;
+    background-color: turquoise;
+    margin: auto;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+    font-size: 30px;
+}
+body {
+    background-color: teal;
+
+}
